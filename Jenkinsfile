@@ -3,5 +3,6 @@ ramTechPipeline {
     agentLabel = "windows"
     buildType="dotnetweb"
     webDeploy="true"
+    sonarAnalysis="true"
 }
 
