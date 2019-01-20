@@ -5,6 +5,8 @@ ramTechPipeline {
     webDeploy="true"
     sonarAnalysis="true"
     sonarQubeEnvironment="Sonar-Production"
+    sonarQubeScanType="dotnet"
+    sonarQubeName="POC-WebApp"
     logging="false"
 }
 
