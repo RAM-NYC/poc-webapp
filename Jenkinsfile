@@ -7,6 +7,7 @@ ramTechPipeline {
     sonarQubeEnvironment="Sonar-Production"
     sonarQubeScanType="dotnet"
     sonarQubeName="POC-WebApp"
+    sonarQubeKey="com.ramtech.pocwebapp"
     logging="false"
 }
 
