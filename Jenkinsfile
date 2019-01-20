@@ -4,6 +4,6 @@ ramTechPipeline {
     buildType="dotnetweb"
     webDeploy="true"
     sonarAnalysis="true"
-    logging="true"
+    logging="false"
 }
 
